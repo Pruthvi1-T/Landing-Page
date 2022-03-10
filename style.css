@@ -118,7 +118,7 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: crimson;
+    color: black;
 }
 .navbar.sticky .menu li a:hover{
     color: #fff;
@@ -186,14 +186,14 @@ section .title::after{
 }
 .home .home-content a{
     display: inline-block;
-    background: crimson;
+    background: black;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid crimson;
+    border: 2px solid black;
     transition: all 0.3s ease;
 }
 .home .home-content a:hover{

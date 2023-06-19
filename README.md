@@ -1,2 +1,3 @@
-# OIBSIP_Task1
-Task 1 of OasisInfobyte Web Development Internship : Landing Page Using HTML, CSS and Javascript.
+# Landing Page
+
+A Simple Landing Page created using HTML, CSS and Javascript.
